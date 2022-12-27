@@ -1,0 +1,1 @@
+# Integral-Metode-Trapezoid-dari-database--UAS
